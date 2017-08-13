@@ -7,9 +7,9 @@ A Python program that creates HTML to display info on an array of movies.
 
 ## Contents
 
-* entertainment_center.py - Main file
-* fresh_tomatoes.py - Creates HTML
-* media.py - Contains Movie class
+* entertainment_center.py - main file, contains movie details
+* fresh_tomatoes.py - creates HTML
+* media.py - contains Movie class
 
 ## Quick Start
 All you need to run this program is Python 2.x.
