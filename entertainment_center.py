@@ -10,7 +10,7 @@ spiderman = media.Movie(
      "fighting crime as his superhero alter ego Spider-Man when a new threat "
      "emerges."),
     ("https://cdn.vox-cdn.com/uploads/chorus_asset/file/"
-     "8571017/spider_man_poster.jpg",)
+     "8571017/spider_man_poster.jpg"),
     "https://www.youtube.com/watch?v=rk-dF1lIbIg"
 )
 movies.append(spiderman)
@@ -32,7 +32,7 @@ guardians = media.Movie(
     ("The Guardians must fight to keep their newfound family together as they "
      "unravel the mystery of Peter Quill's true parentage."),
     ("https://upload.wikimedia.org/wikipedia/en/thumb/9/95/"
-     "GotG_Vol2_poster.jpg/220px-GotG_Vol2_poster.jpg",)
+     "GotG_Vol2_poster.jpg/220px-GotG_Vol2_poster.jpg"),
     "https://www.youtube.com/watch?v=4hdv_6gl4gk"
 )
 movies.append(guardians)
@@ -41,7 +41,7 @@ ironman = media.Movie(
     "Iron Man 3",
     ("When Tony Stark's world is torn apart by a formidable terrorist called "
      "the Mandarin, he starts an odyssey of rebuilding and retribution."),
-    "http://cdn.movieweb.com/img.teasers.posters/FI9EvebisBUacc_378_a.jpg"
+    "http://cdn.movieweb.com/img.teasers.posters/FI9EvebisBUacc_378_a.jpg",
     "https://www.youtube.com/watch?v=aV8H7kszXqo"
 )
 movies.append(ironman)

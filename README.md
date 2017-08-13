@@ -19,5 +19,5 @@ All you need to run this program is Python 2.x.
 * Now run `python entertainment_center.py`
 * The output of the program will launch in a new tab on your default browser, enjoy!
 
-## Additional Feature
-In addition to the baseline requirements of this project, I've modified fresh_tomatoes.py to display storyline information.
+## Additional Features
+In addition to the baseline requirements of this project, I've modified fresh_tomatoes.py to display storyline information and updated the color scheme for the site to a dark theme.
