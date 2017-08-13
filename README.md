@@ -1,4 +1,4 @@
-# movie-trailer-website
+# Movie Trailer Website
 ### by Tyler Buchheim
 #### Part of Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) program
 
@@ -12,13 +12,12 @@ A Python program that creates HTML to display info on an array of movies.
 * media.py - Contains Movie class
 
 ## Quick Start
-All you need to run this program is Python 2.x. First, fork and clone this repository.
+All you need to run this program is Python 2.x.
 
-Then feel free to modify the displayed movie content in entertainment_center.py.
-
-Now run `python entertainment_center.py`
-
-The output of the program will launch in a new tab on your default browser, enjoy!
+* First, fork and clone this repository.
+* Then feel free to modify the displayed movie content in entertainment_center.py.
+* Now run `python entertainment_center.py`
+* The output of the program will launch in a new tab on your default browser, enjoy!
 
 ## Additional Feature
 In addition to the baseline requirements of this project, I've modified fresh_tomatoes.py to display storyline information.
